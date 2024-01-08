@@ -6,4 +6,4 @@
 - Although this was the result of the course, the project was developed further. The test documentation was made more detailed by following many industry standard references.
   - <a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQz8--3VwpooSBtlJ3ZEgMpWuw5xWqSc9S831FJFcsF5HCZFRrkxNTsGIwtE112dOZ0JDAbENryyN6_/pubhtml" target="_blank">Doc Testing</a>
 - Automation tests were created by adjusting the clean code format and adding several new scenarios.
-- Here's a short video explaining this testing project. <a href="https://www.youtube.com" target="_blank">[Click Me]</a>
+- Here's a short video explaining this testing project. <a href="https://www.youtube.com/@IbraSuraya" target="_blank">[Click Me]</a>
